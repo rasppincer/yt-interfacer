@@ -23,4 +23,5 @@
   - Moved to ~/data/yt-interfacer/ (1.2GB archive, 1.4MB transcripts)
   - Symlinks in project dir keep code working without changes
   - Repo lightweight for GitHub push
-- [ ] Initialize git repo + push to GitHub (after data is moved out)
+- [x] Initialize git repo + push to GitHub (after data is moved out)
+  - GitHub: https://github.com/rasppincer/yt-interfacer
